@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.main-bg {
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-container {
+  background-color: #150b3e;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  font-family: 'Roboto';
+}
+
+.surname-bg {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  border-radius: 200px;
+  height: 60px;
+  padding-top: 18px;
+  width: 60px;
+  text-align: center;
+}
+
+.text-color {
+  color: #d4d2db;
+  font-size: 24px;
+  padding-left: 20px;
+}
+
+.div1-container {
+  display: flex;
+}
+
+.div2-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yourBalence {
+  color: #585076;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.amount {
+  color: #c4c4c4;
+  font-size: 30px;
+  margin: 0px;
+}
+.in-rupees {
+  color: #585076;
+  font-size: 18px;
+  font-weight: 500;
+}
+.withdraw {
+  color: #c4c4c4;
+  font-size: 26px;
+  font-weight: 500;
+}
